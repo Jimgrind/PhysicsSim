@@ -1,4 +1,4 @@
-package updater;
+package calculations;
 
 public class CollisionResolution {
 
